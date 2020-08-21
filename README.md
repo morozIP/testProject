@@ -22,4 +22,4 @@ little struct<br>
 </table><br>
 now i trying to make my desktop app workable...like Dr.Franki with his experiment<br>
 it work but not so good how i whant<br>
-now i make only first steps in C#+.NET and i will be shout like Dr.Franki "it is a live!!!" soon.
+now i make only first steps in C#+.NET and i will be shout like Dr.Franki "it is a live!!!-it is a live!!!" soon.
