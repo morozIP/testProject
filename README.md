@@ -1,7 +1,7 @@
 # testProject
 My simple project with :
 
-DesctopApp<br>API<br>DB<br><br>
+DesctopApp>>>===> will be added after comming to alpha version<br>API<br>DB<br><br>
 i try to make a simple prjct<br><br>API is already done<br>it realy simple<br>i took template from <a href="mysqlconnector.net">mysqlconnector.net</a> 
 and update it for me<br><br>
 i creted and manage MySQL DB with MAMP and PHPmyAdmin<br>
