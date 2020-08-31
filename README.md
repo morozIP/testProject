@@ -1,7 +1,7 @@
 # testProject
 My simple project with :
 
-DesctopApp(.net CORE 3.1)>>>===> will be added after comming to alpha version<br>API(ASP.NET with mysqlconnector)<br>DB(MAMP PHPmyADMIN MySQL)<br><br>
+DesctopApp(.net CORE 3.1)<br>API(ASP.NET with mysqlconnector)<br>DB(MAMP PHPmyADMIN MySQL)<br><br>
 i try to make a simple prjct<br><br>API is already done<br>it is realy simple<br>i took template from <a href="mysqlconnector.net">mysqlconnector.net</a> 
 and update it for me<br><br>
 i created and manage MySQL DB with MAMP and PHPmyAdmin<br>
