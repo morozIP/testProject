@@ -46,6 +46,14 @@ namespace WebApplication1.Controllers
         [HttpPost]
         public async Task<IActionResult> Post([FromBody] ApplePost body)
         {
+            if (!ListOfType.Contains(body.Type))
+            {
+                return Content("How you did it?");
+            }
+            if (body.Model.Length > 12)
+            {
+                return Content("Sorry, but model what you chosen is whrong!");
+            }
             await Db.Connection.OpenAsync();
             body.Db = Db;
             await body.InsertAsync();
